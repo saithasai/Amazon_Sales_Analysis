@@ -26,7 +26,7 @@ Exploratory Data Analysis (EDA)
 Tableau 2024.1
 
 ### Link to Tableau Public:
-[https://public.tableau.com/app/profile/sai.m.s/vizzes](url)
+https://public.tableau.com/app/profile/sai.m.s/vizzes
 
-
+Here, bar charts, area chart and map and pie chart are used to perform data visualization to show trends and insights. We can see how the sales data varies by countries, regions and item-types.
 
