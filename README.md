@@ -1,4 +1,6 @@
-# Amazon-Sales-Analysis
+# Amazon Sales Analysis    
+<img src="https://www.theindianwire.com/wp-content/uploads/2020/08/Amazon-1.jpg" width="1000" height="600" />  
+
 The dataset comprises with Amazon Sales Data details of 12 different products in 76 countries to help optimize product profitability by answering several key questions related to the sales data.
 
 ### Objective of this Project:
