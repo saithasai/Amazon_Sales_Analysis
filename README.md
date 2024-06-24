@@ -6,7 +6,10 @@ The dataset comprises with Amazon Sales Data details of 12 different products in
 ### Objective of this Project:
 Objective of this project is to find key metrics and factors and then show meaningful relationships between them and to create visualizations for better understanding trends and patterns
 
-### Technologies used:
+### Techniques Used
+Data extraction, cleaning, and transformation using pandas, visualization with Matplotlib/Seaborn;    
+
+### Tools used:
 Python, Pandas, Numpy, Matplotlib, Seaborn
 
 ### Approach Used:
